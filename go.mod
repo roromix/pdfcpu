@@ -1,4 +1,4 @@
-module github.com/pdfcpu/pdfcpu
+module github.com/roromix/pdfcpu
 
 go 1.20
 
